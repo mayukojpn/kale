@@ -1,0 +1,29 @@
+== Changelog ==
+
+= 1.0 =
+* Initial release
+* Released: June 18, 2016
+
+= 1.1 = 
+* Banner/posts slider bug (Owl Carousel limitation of a single slide addressed)
+* Focus on search field on click
+* Formatting of comments
+
+= 1.1.1 =
+* Changed background of search field in nav
+* Fixed kirki 'settings' key in each field, was misspelled 'setting'.
+
+= 1.1.2 =
+= 7/22/2016 =
+* Dropdown selected menu styling
+* ad.php was being called in grid format feed
+
+= 1.1.3 =
+= 8/14/2016 =
+* Recent Posts With Thumbnails widget styling fixed
+* Footer wording fixed
+* Upgrade to Pro message in Customizer amended
+
+= 1.1.4 =
+= 8/14/2016 =
+* Recent Posts With Thumbnails widget styling fixed
