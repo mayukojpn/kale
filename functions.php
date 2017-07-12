@@ -241,7 +241,7 @@ function kale_default_nav(){
         $menu_link = get_page_link( $page->ID );
         if(get_the_ID() == $page->ID) $current_class = "current_page_item";
         else { $current_class = ''; $home_current_class = ''; }
-        $menu_class = "page-item-" . $page_id;
+        $menu_class = "page-item-" . $page->ID;
         echo "<li class='page_item $menu_class $current_class'><a href='$menu_link'>$menu_name</a></li>";
         $i++;
         if($n == $i){
